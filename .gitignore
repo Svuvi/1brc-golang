@@ -1,0 +1,9 @@
+# This is whitelist
+*
+#
+!.gitignore
+!*.go
+!*.sum
+!*.mod
+!test_cases/
+!test_cases/*
